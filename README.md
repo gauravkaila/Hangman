@@ -1,2 +1,2 @@
 # Hangman
-Hangman game
+This project is about the classic hangman game. 
